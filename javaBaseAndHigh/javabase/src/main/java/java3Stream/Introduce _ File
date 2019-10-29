@@ -1,0 +1,9 @@
+1.File 类
+    构造方法
+    绝对路径 new File("url");
+    相对路径 先创建目录,在创建文件 new File("directoryUrl","FileName")
+2.字节流接口                       InputStream ，       OutputStream
+  字节流的实现                     FileInputStream,     FileOutputStream
+  字节缓冲区                       BufferedOutputStrem  BufferedInputStream
+  字节转换字节(改变编码集)          OutputStreamWriter(FileOutputStream file ,"UTF-8")
+  字符流Reader                    FileWriter   FileRead

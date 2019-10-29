@@ -1,0 +1,13 @@
+Java的异常处理
+2种异常，一个错误
+Java中的异常层次
+
+父类接口：Throwable
+子类接口：Error：java运行环境发生错误
+         Exception：检查时错误，checkException
+                    运行时错误，RuntimeException
+          异常举例：数组下标越界
+                    输入类型不匹配
+                    类转换失败
+                    算术格式错误
+                    空指针异常
