@@ -1,0 +1,25 @@
+1.网络编程
+    网络在OSI中分为
+    物理层（Physics Layer）
+    数据链路层（Data Link Layer）
+    网络层（Network Layer）
+    传输层（Transport Layer）
+    会话层（Session Layer）
+    表示层（Presentation Layer）
+    应用层（Application Layer）
+
+下面俩个协议皆处于数据传输层
+    TCP： TCP是传输控制协议的缩写，它保障了两个应用程序之间的可靠通信。
+            通常用于互联网协议，被称TCP / IP。
+    UDP:UDP是用户数据报协议的缩写，一个无连接的协议。提供了应用程序之间要发送的数据的数据包。
+
+
+ Tcp实现方法：
+     Server：开放端口 ，监听端口，循环监听    获取监听到的client
+     Client：获取Server的网路路径：端口
+     关键类：Socket，ServerSocket
+
+     TCP编程：
+     1、定义一个服务端，ServerSocket类 ，利用bind指定IP地址和端口
+
+     2、在编一条连接服务器的通道 Socket（SeverIP，Serverport）；

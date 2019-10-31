@@ -2,16 +2,18 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="55d2d2d0-7d24-4e34-b0af-9985f9cb3192" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/.idea/uiDesigner.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/javabase/src/main/java/Java5Object/Introduce" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/javabase/src/main/java/java1Date/Test1.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/javabase/src/main/java/java1Date/Test2.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/javabase/src/main/java/java1Date/Test3.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/javabase/src/main/java/java2Expression/Test1.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/javabase/src/main/java/java3Stream/Introduce _ File" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/javabase/src/main/java/java3Stream/Test1_inputStream.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/javabase/src/main/java/java4Exception/Introduce" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/javabase/src/main/java/java4Exception/Test1.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/javabase/src/main/java/java6Serializable/Introduce" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/javabase/src/main/java/java6Serializable/Test1.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/javabase/src/main/java/java7Network/Introduce" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/javabase/src/main/java/java7Network/TcpClient.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/javabase/src/main/java/java7Network/TcpServer.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/javabase/src/main/java/java7Network/网络Socket编程图.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/javabase/src/main/java/java8Mail/Java邮箱发送.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/javabase/src/main/java/java8Mail/SendQQ.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/javabase/pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/javabase/pom.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/javabase/src/main/java/Java5Object/Introduce" beforeDir="false" afterPath="$PROJECT_DIR$/javabase/src/main/java/java5Object/Introduce" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/javabase/src/main/java/Java5Object/Test1.java" beforeDir="false" afterPath="$PROJECT_DIR$/javabase/src/main/java/java5Object/Test1.java" afterDir="false" />
     </list>
     <ignored path="$PROJECT_DIR$/out/" />
     <ignored path="$PROJECT_DIR$/target/" />
@@ -26,14 +28,19 @@
     <option name="isMigrated" value="true" />
   </component>
   <component name="FileEditorManager">
-    <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
+    <leaf>
       <file pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/javabase/src/main/java/Java5Object/Introduce">
+        <entry file="file://$PROJECT_DIR$/javabase/src/main/java/java8Mail/SendQQ.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="285">
-              <caret line="15" column="2" selection-start-line="15" selection-start-column="2" selection-end-line="15" selection-end-column="2" />
+            <state relative-caret-position="190">
+              <caret line="10" column="43" selection-start-line="10" selection-start-column="43" selection-end-line="10" selection-end-column="43" />
             </state>
           </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/javabase/src/main/java/java8Mail/Java邮箱发送.png">
+          <provider selected="true" editor-type-id="images" />
         </entry>
       </file>
     </leaf>
@@ -41,9 +48,18 @@
   <component name="FileTemplateManagerImpl">
     <option name="RECENT_TEMPLATES">
       <list>
+        <option value="Enum" />
         <option value="Class" />
       </list>
     </option>
+  </component>
+  <component name="FindInProjectRecents">
+    <findStrings>
+      <find>client</find>
+    </findStrings>
+    <replaceStrings>
+      <replace>socket</replace>
+    </replaceStrings>
   </component>
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/.." />
@@ -62,6 +78,15 @@
         <option value="$PROJECT_DIR$/javabase/src/main/java/java4Exception/Introduce" />
         <option value="$PROJECT_DIR$/javabase/src/main/java/java4Exception/Test1.java" />
         <option value="$PROJECT_DIR$/javabase/src/main/java/Java5Object/Introduce" />
+        <option value="$PROJECT_DIR$/javabase/src/main/java/Java5Object/Test1.java" />
+        <option value="$PROJECT_DIR$/javabase/src/main/java/java5Object/Test1.java" />
+        <option value="$PROJECT_DIR$/javabase/src/main/java/java6Serializable/Test1.java" />
+        <option value="$PROJECT_DIR$/javabase/src/main/java/java6Serializable/Introduce" />
+        <option value="$PROJECT_DIR$/javabase/src/main/java/java7Network/TcpClient.java" />
+        <option value="$PROJECT_DIR$/javabase/src/main/java/java7Network/TcpServer.java" />
+        <option value="$PROJECT_DIR$/javabase/src/main/java/java7Network/Introduce" />
+        <option value="$PROJECT_DIR$/javabase/pom.xml" />
+        <option value="$PROJECT_DIR$/javabase/src/main/java/java8Mail/SendQQ.java" />
       </list>
     </option>
   </component>
@@ -78,9 +103,9 @@
       </MavenImportingSettings>
     </option>
   </component>
-  <component name="ProjectFrameBounds">
-    <option name="x" value="196" />
-    <option name="y" value="45" />
+  <component name="ProjectFrameBounds" extendedState="6">
+    <option name="x" value="415" />
+    <option name="y" value="30" />
     <option name="width" value="1240" />
     <option name="height" value="830" />
   </component>
@@ -91,7 +116,6 @@
     </navigator>
     <panes>
       <pane id="PackagesPane" />
-      <pane id="Scope" />
       <pane id="ProjectPane">
         <subPane>
           <expand>
@@ -132,21 +156,17 @@
               <item name="src" type="462c0819:PsiDirectoryNode" />
               <item name="main" type="462c0819:PsiDirectoryNode" />
               <item name="java" type="462c0819:PsiDirectoryNode" />
-              <item name="java4Exception" type="462c0819:PsiDirectoryNode" />
+              <item name="java8Mail" type="462c0819:PsiDirectoryNode" />
             </path>
             <path>
               <item name="javaBaseAndHigh" type="b2602c69:ProjectViewProjectNode" />
-              <item name="javaBaseAndHigh" type="462c0819:PsiDirectoryNode" />
-              <item name="javabase" type="462c0819:PsiDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="main" type="462c0819:PsiDirectoryNode" />
-              <item name="java" type="462c0819:PsiDirectoryNode" />
-              <item name="Java5Object" type="462c0819:PsiDirectoryNode" />
+              <item name="External Libraries" type="cb654da1:ExternalLibrariesNode" />
             </path>
           </expand>
           <select />
         </subPane>
       </pane>
+      <pane id="Scope" />
     </panes>
   </component>
   <component name="PropertiesComponent">
@@ -158,7 +178,13 @@
     <property name="project.structure.last.edited" value="Modules" />
     <property name="project.structure.proportion" value="0.0" />
     <property name="project.structure.side.proportion" value="0.0" />
-    <property name="settings.editor.selected.configurable" value="vcs.Git" />
+    <property name="settings.editor.selected.configurable" value="preferences.keymap" />
+  </component>
+  <component name="RecentsManager">
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="E:\GitHub Repository\ReviewRepository\javaBaseAndHigh\javabase\src\main\java\java8Mail" />
+      <recent name="E:\GitHub Repository\ReviewRepository\javaBaseAndHigh\javabase\src\main\java\java7Network" />
+    </key>
   </component>
   <component name="RunDashboard">
     <option name="ruleStates">
@@ -172,7 +198,33 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="Application.Test1 (2)">
+  <component name="RunManager" selected="Application.Test1 (1)">
+    <configuration name="TcpClient" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="java7Network.TcpClient" />
+      <module name="javabase" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="java7Network.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="TcpServer" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="java7Network.TcpServer" />
+      <module name="javabase" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="java7Network.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
     <configuration name="Test1 (1)" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="java2Expression.Test1" />
       <module name="javabase" />
@@ -186,12 +238,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="Test1 (2)" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="java4Exception.Test1" />
+    <configuration name="Test1 (3)" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="java6Serializable.Test1" />
       <module name="javabase" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="java4Exception.*" />
+          <option name="PATTERN" value="java6Serializable.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -199,38 +251,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="Test1_inputStream" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="java3Stream.Test1_inputStream" />
+    <configuration name="Test1" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="java5Object.Test1" />
       <module name="javabase" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="java3Stream.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="Test2" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="java1Date.Test2" />
-      <module name="javabase" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="java1Date.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="Test3" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="java1Date.Test3" />
-      <module name="javabase" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="java1Date.*" />
+          <option name="PATTERN" value="java5Object.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -240,11 +266,11 @@
     </configuration>
     <recent_temporary>
       <list>
-        <item itemvalue="Application.Test1 (2)" />
-        <item itemvalue="Application.Test1_inputStream" />
         <item itemvalue="Application.Test1 (1)" />
-        <item itemvalue="Application.Test3" />
-        <item itemvalue="Application.Test2" />
+        <item itemvalue="Application.TcpClient" />
+        <item itemvalue="Application.TcpServer" />
+        <item itemvalue="Application.Test1 (3)" />
+        <item itemvalue="Application.Test1" />
       </list>
     </recent_temporary>
   </component>
@@ -261,18 +287,22 @@
       <workItem from="1572085904453" duration="833000" />
       <workItem from="1572308864520" duration="17000" />
       <workItem from="1572316998903" duration="6121000" />
-      <workItem from="1572327716659" duration="11971000" />
+      <workItem from="1572327716659" duration="14280000" />
+      <workItem from="1572397795693" duration="142000" />
+      <workItem from="1572403190043" duration="9631000" />
+      <workItem from="1572485353486" duration="10448000" />
+      <workItem from="1572499720157" duration="3560000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="18942000" />
+    <option name="totallyTimeSpent" value="45032000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="-7" y="-7" width="1550" height="838" extended-state="6" />
     <editor active="true" />
     <layout>
-      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.20509383" />
+      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.21581769" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
       <window_info id="Image Layers" order="2" />
       <window_info id="Designer" order="3" />
@@ -281,7 +311,7 @@
       <window_info id="Favorites" order="6" side_tool="true" />
       <window_info anchor="bottom" id="Message" order="0" />
       <window_info anchor="bottom" id="Find" order="1" />
-      <window_info anchor="bottom" id="Run" order="2" visible="true" weight="0.15155807" />
+      <window_info anchor="bottom" id="Run" order="2" weight="0.20963173" />
       <window_info anchor="bottom" id="Debug" order="3" weight="0.4" />
       <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
       <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
@@ -310,9 +340,6 @@
     <entry file="file://$PROJECT_DIR$/pom.xml">
       <provider selected="true" editor-type-id="text-editor" />
     </entry>
-    <entry file="file://$PROJECT_DIR$/javabase/pom.xml">
-      <provider selected="true" editor-type-id="text-editor" />
-    </entry>
     <entry file="file://$PROJECT_DIR$/javabase/src/main/java/java1Date/Test1.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="-380">
@@ -327,16 +354,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="247">
           <caret line="13" column="58" selection-start-line="13" selection-start-column="58" selection-end-line="13" selection-end-column="58" />
-          <folding>
-            <element signature="imports" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/javabase/src/main/java/java2Expression/Test1.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="98">
-          <caret line="27" lean-forward="true" selection-start-line="27" selection-end-line="27" />
           <folding>
             <element signature="imports" expanded="true" />
           </folding>
@@ -381,10 +398,119 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/javabase/src/main/java/Java5Object/Introduce">
+    <entry file="file://$PROJECT_DIR$/javabase/src/main/java/java5Object/Test1.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="285">
-          <caret line="15" column="2" selection-start-line="15" selection-start-column="2" selection-end-line="15" selection-end-column="2" />
+        <state relative-caret-position="-252">
+          <caret line="8" column="20" selection-start-line="8" selection-start-column="20" selection-end-line="8" selection-end-column="20" />
+          <folding>
+            <element signature="e#229#230#0" expanded="true" />
+            <element signature="e#265#266#0" expanded="true" />
+            <element signature="e#310#311#0" expanded="true" />
+            <element signature="e#326#327#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/javabase/src/main/java/java5Object/Introduce">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="304">
+          <caret line="16" selection-start-line="16" selection-end-line="16" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/javabase/src/main/java/java6Serializable/Test1.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state>
+          <caret line="11" column="42" selection-start-line="11" selection-start-column="18" selection-end-line="11" selection-end-column="42" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/javabase/src/main/java/java6Serializable/Introduce">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="95">
+          <caret line="5" column="62" selection-start-line="5" selection-start-column="62" selection-end-line="5" selection-end-column="62" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://D:/system environment/Java/jdk1.8/src.zip!/java/net/Socket.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="137">
+          <caret line="1615" column="19" selection-start-line="1615" selection-start-column="19" selection-end-line="1615" selection-end-column="19" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://D:/system environment/Java/jdk1.8/src.zip!/java/io/BufferedReader.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-772">
+          <caret line="311" column="11" selection-start-line="311" selection-start-column="11" selection-end-line="311" selection-end-column="11" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/javabase/src/main/java/java7Network/TcpServer.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="353">
+          <caret line="77" column="5" lean-forward="true" selection-start-line="77" selection-start-column="5" selection-end-line="77" selection-end-column="5" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/javabase/src/main/java/java7Network/Introduce">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="57">
+          <caret line="3" column="18" selection-start-line="3" selection-start-column="18" selection-end-line="3" selection-end-column="18" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/javabase/src/main/java/java2Expression/Test1.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="126">
+          <caret line="18" column="32" lean-forward="true" selection-start-line="18" selection-start-column="32" selection-end-line="18" selection-end-column="32" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/javabase/src/main/java/java7Network/网络Socket编程图.png">
+      <provider selected="true" editor-type-id="images" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/javabase/src/main/java/java7Network/TcpClient.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="19">
+          <caret line="46" column="6" selection-start-line="46" selection-start-column="6" selection-end-line="46" selection-end-column="6" />
+          <folding>
+            <element signature="imports" expanded="true" />
+            <element signature="e#400#401#0" expanded="true" />
+            <element signature="e#432#433#0" expanded="true" />
+            <element signature="e#482#483#0" expanded="true" />
+            <element signature="e#524#525#0" expanded="true" />
+            <element signature="e#552#553#0" expanded="true" />
+            <element signature="e#579#580#0" expanded="true" />
+            <element signature="e#616#617#0" expanded="true" />
+            <element signature="e#648#649#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/javabase/pom.xml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="201">
+          <caret line="17" column="30" lean-forward="true" selection-start-line="17" selection-start-column="30" selection-end-line="17" selection-end-column="30" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/javabase/src/main/java/java8Mail/Java邮箱发送.png">
+      <provider selected="true" editor-type-id="images" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/javabase/src/main/java/java8Mail/SendQQ.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="190">
+          <caret line="10" column="43" selection-start-line="10" selection-start-column="43" selection-end-line="10" selection-end-column="43" />
         </state>
       </provider>
     </entry>
