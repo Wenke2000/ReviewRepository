@@ -2,22 +2,18 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="55d2d2d0-7d24-4e34-b0af-9985f9cb3192" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/javabase/src/main/java/java6Serializable/Introduce" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/javabase/src/main/java/java6Serializable/Test1.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/javabase/src/main/java/java7Network/Introduce" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/javabase/src/main/java/java7Network/TcpClient.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/javabase/src/main/java/java7Network/TcpServer.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/javabase/src/main/java/java7Network/网络Socket编程图.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/javabase/src/main/java/java8Mail/Java邮箱发送.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/javabase/src/main/java/java8Mail/SendQQ.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/javaExtra/pom.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/javaExtra/src/main/java/java1Rubbish/Test1.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/javabase/src/main/java/java9Thread/Test1.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/compiler.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/compiler.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/javabase/pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/javabase/pom.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/javabase/src/main/java/Java5Object/Introduce" beforeDir="false" afterPath="$PROJECT_DIR$/javabase/src/main/java/java5Object/Introduce" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/javabase/src/main/java/Java5Object/Test1.java" beforeDir="false" afterPath="$PROJECT_DIR$/javabase/src/main/java/java5Object/Test1.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/javabase/src/main/java/java7Network/TcpClient.java" beforeDir="false" afterPath="$PROJECT_DIR$/javabase/src/main/java/java7Network/TcpClient.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/pom.xml" afterDir="false" />
     </list>
     <ignored path="$PROJECT_DIR$/out/" />
     <ignored path="$PROJECT_DIR$/target/" />
     <ignored path="$PROJECT_DIR$/javabase/target/" />
+    <ignored path="$PROJECT_DIR$/javaExtra/target/" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -28,22 +24,7 @@
     <option name="isMigrated" value="true" />
   </component>
   <component name="FileEditorManager">
-    <leaf>
-      <file pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/javabase/src/main/java/java8Mail/SendQQ.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="190">
-              <caret line="10" column="43" selection-start-line="10" selection-start-column="43" selection-end-line="10" selection-end-column="43" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/javabase/src/main/java/java8Mail/Java邮箱发送.png">
-          <provider selected="true" editor-type-id="images" />
-        </entry>
-      </file>
-    </leaf>
+    <leaf SIDE_TABS_SIZE_LIMIT_KEY="300" />
   </component>
   <component name="FileTemplateManagerImpl">
     <option name="RECENT_TEMPLATES">
@@ -82,11 +63,13 @@
         <option value="$PROJECT_DIR$/javabase/src/main/java/java5Object/Test1.java" />
         <option value="$PROJECT_DIR$/javabase/src/main/java/java6Serializable/Test1.java" />
         <option value="$PROJECT_DIR$/javabase/src/main/java/java6Serializable/Introduce" />
-        <option value="$PROJECT_DIR$/javabase/src/main/java/java7Network/TcpClient.java" />
         <option value="$PROJECT_DIR$/javabase/src/main/java/java7Network/TcpServer.java" />
         <option value="$PROJECT_DIR$/javabase/src/main/java/java7Network/Introduce" />
         <option value="$PROJECT_DIR$/javabase/pom.xml" />
         <option value="$PROJECT_DIR$/javabase/src/main/java/java8Mail/SendQQ.java" />
+        <option value="$PROJECT_DIR$/javabase/src/main/java/java9Thread/Test1.java" />
+        <option value="$PROJECT_DIR$/javabase/src/main/java/java7Network/TcpClient.java" />
+        <option value="$PROJECT_DIR$/javaExtra/src/main/java/java1Rubbish/Test1.java" />
       </list>
     </option>
   </component>
@@ -115,49 +98,9 @@
       <foldersAlwaysOnTop value="true" />
     </navigator>
     <panes>
-      <pane id="PackagesPane" />
       <pane id="ProjectPane">
         <subPane>
           <expand>
-            <path>
-              <item name="javaBaseAndHigh" type="b2602c69:ProjectViewProjectNode" />
-              <item name="javaBaseAndHigh" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="javaBaseAndHigh" type="b2602c69:ProjectViewProjectNode" />
-              <item name="javaBaseAndHigh" type="462c0819:PsiDirectoryNode" />
-              <item name="javabase" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="javaBaseAndHigh" type="b2602c69:ProjectViewProjectNode" />
-              <item name="javaBaseAndHigh" type="462c0819:PsiDirectoryNode" />
-              <item name="javabase" type="462c0819:PsiDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="javaBaseAndHigh" type="b2602c69:ProjectViewProjectNode" />
-              <item name="javaBaseAndHigh" type="462c0819:PsiDirectoryNode" />
-              <item name="javabase" type="462c0819:PsiDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="main" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="javaBaseAndHigh" type="b2602c69:ProjectViewProjectNode" />
-              <item name="javaBaseAndHigh" type="462c0819:PsiDirectoryNode" />
-              <item name="javabase" type="462c0819:PsiDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="main" type="462c0819:PsiDirectoryNode" />
-              <item name="java" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="javaBaseAndHigh" type="b2602c69:ProjectViewProjectNode" />
-              <item name="javaBaseAndHigh" type="462c0819:PsiDirectoryNode" />
-              <item name="javabase" type="462c0819:PsiDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="main" type="462c0819:PsiDirectoryNode" />
-              <item name="java" type="462c0819:PsiDirectoryNode" />
-              <item name="java8Mail" type="462c0819:PsiDirectoryNode" />
-            </path>
             <path>
               <item name="javaBaseAndHigh" type="b2602c69:ProjectViewProjectNode" />
               <item name="External Libraries" type="cb654da1:ExternalLibrariesNode" />
@@ -167,6 +110,7 @@
         </subPane>
       </pane>
       <pane id="Scope" />
+      <pane id="PackagesPane" />
     </panes>
   </component>
   <component name="PropertiesComponent">
@@ -198,7 +142,7 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="Application.Test1 (1)">
+  <component name="RunManager" selected="Application.Test1">
     <configuration name="TcpClient" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="java7Network.TcpClient" />
       <module name="javabase" />
@@ -238,12 +182,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="Test1 (3)" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="java6Serializable.Test1" />
-      <module name="javabase" />
+    <configuration name="Test1" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="java1Rubbish.Test1" />
+      <module name="javaExtra" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="java6Serializable.*" />
+          <option name="PATTERN" value="java1Rubbish.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -251,12 +195,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="Test1" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="java5Object.Test1" />
+    <configuration name="test" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="java9Thread.test" />
       <module name="javabase" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="java5Object.*" />
+          <option name="PATTERN" value="java9Thread.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -266,11 +210,11 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.Test1" />
+        <item itemvalue="Application.test" />
         <item itemvalue="Application.Test1 (1)" />
         <item itemvalue="Application.TcpClient" />
         <item itemvalue="Application.TcpServer" />
-        <item itemvalue="Application.Test1 (3)" />
-        <item itemvalue="Application.Test1" />
       </list>
     </recent_temporary>
   </component>
@@ -292,17 +236,19 @@
       <workItem from="1572403190043" duration="9631000" />
       <workItem from="1572485353486" duration="10448000" />
       <workItem from="1572499720157" duration="3560000" />
+      <workItem from="1572767628436" duration="4928000" />
+      <workItem from="1572924907575" duration="349000" />
+      <workItem from="1573199648643" duration="132000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="45032000" />
+    <option name="totallyTimeSpent" value="50441000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="-7" y="-7" width="1550" height="838" extended-state="6" />
-    <editor active="true" />
     <layout>
-      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.21581769" />
+      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.22386059" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
       <window_info id="Image Layers" order="2" />
       <window_info id="Designer" order="3" />
@@ -311,7 +257,7 @@
       <window_info id="Favorites" order="6" side_tool="true" />
       <window_info anchor="bottom" id="Message" order="0" />
       <window_info anchor="bottom" id="Find" order="1" />
-      <window_info anchor="bottom" id="Run" order="2" weight="0.20963173" />
+      <window_info anchor="bottom" id="Run" order="2" weight="0.26203966" />
       <window_info anchor="bottom" id="Debug" order="3" weight="0.4" />
       <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
       <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
@@ -449,16 +395,6 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/javabase/src/main/java/java7Network/TcpServer.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="353">
-          <caret line="77" column="5" lean-forward="true" selection-start-line="77" selection-start-column="5" selection-end-line="77" selection-end-column="5" />
-          <folding>
-            <element signature="imports" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/javabase/src/main/java/java7Network/Introduce">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="57">
@@ -479,10 +415,34 @@
     <entry file="file://$PROJECT_DIR$/javabase/src/main/java/java7Network/网络Socket编程图.png">
       <provider selected="true" editor-type-id="images" />
     </entry>
+    <entry file="file://$PROJECT_DIR$/javabase/pom.xml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="201">
+          <caret line="17" column="30" lean-forward="true" selection-start-line="17" selection-start-column="30" selection-end-line="17" selection-end-column="30" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/javabase/src/main/java/java8Mail/SendQQ.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="190">
+          <caret line="10" column="43" selection-start-line="10" selection-start-column="43" selection-end-line="10" selection-end-column="43" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/javabase/src/main/java/java9Thread/Test1.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="171">
+          <caret line="9" selection-start-line="9" selection-end-line="9" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/javaExtra/pom.xml">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
     <entry file="file://$PROJECT_DIR$/javabase/src/main/java/java7Network/TcpClient.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="19">
-          <caret line="46" column="6" selection-start-line="46" selection-start-column="6" selection-end-line="46" selection-end-column="6" />
+        <state relative-caret-position="1311">
+          <caret line="80" column="41" selection-start-line="80" selection-start-column="41" selection-end-line="80" selection-end-column="41" />
           <folding>
             <element signature="imports" expanded="true" />
             <element signature="e#400#401#0" expanded="true" />
@@ -497,20 +457,23 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/javabase/pom.xml">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="201">
-          <caret line="17" column="30" lean-forward="true" selection-start-line="17" selection-start-column="30" selection-end-line="17" selection-end-column="30" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/javabase/src/main/java/java8Mail/Java邮箱发送.png">
       <provider selected="true" editor-type-id="images" />
     </entry>
-    <entry file="file://$PROJECT_DIR$/javabase/src/main/java/java8Mail/SendQQ.java">
+    <entry file="file://$PROJECT_DIR$/javaExtra/src/main/java/java1Rubbish/Test1.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="190">
-          <caret line="10" column="43" selection-start-line="10" selection-start-column="43" selection-end-line="10" selection-end-column="43" />
+        <state relative-caret-position="133">
+          <caret line="7" column="20" lean-forward="true" selection-start-line="7" selection-start-column="20" selection-end-line="7" selection-end-column="20" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/javabase/src/main/java/java7Network/TcpServer.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="140">
+          <caret line="25" column="21" lean-forward="true" selection-start-line="25" selection-start-column="21" selection-end-line="25" selection-end-column="21" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
         </state>
       </provider>
     </entry>

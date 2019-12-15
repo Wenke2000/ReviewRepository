@@ -77,7 +77,6 @@ public class TcpClient {
             Socket socket=tcpClient.createClient(tcpClient.getServerUrl(),tcpClient.getPort());
             //向服务器发送消息
             tcpClient.sendServer(socket);
-
             //接收服务器消息
             tcpClient.receiveServer(socket);
 
